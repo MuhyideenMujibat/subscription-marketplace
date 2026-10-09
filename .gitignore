@@ -1,8 +1,9 @@
 .venv/
 __pycache__/
 *.pyc
-.env
 staticfiles/
 .pytest_cache/
 celerybeat-schedule*
 *.sqlite3
+config.bat
+node_modules
